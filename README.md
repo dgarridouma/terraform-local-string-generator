@@ -1,0 +1,1 @@
+# terraform-local-string-generator
